@@ -1,0 +1,15 @@
+C:\Users\Floppa Burguer\Desktop\proyecto, proyecto\EJEMPLO\Logeo\bin\Debug\Logeo.exe.config
+C:\Users\Floppa Burguer\Desktop\proyecto, proyecto\EJEMPLO\Logeo\bin\Debug\Logeo.exe
+C:\Users\Floppa Burguer\Desktop\proyecto, proyecto\EJEMPLO\Logeo\bin\Debug\Logeo.pdb
+C:\Users\Floppa Burguer\Desktop\proyecto, proyecto\EJEMPLO\Logeo\bin\Debug\Factura.exe
+C:\Users\Floppa Burguer\Desktop\proyecto, proyecto\EJEMPLO\Logeo\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Floppa Burguer\Desktop\proyecto, proyecto\EJEMPLO\Logeo\bin\Debug\Factura.pdb
+C:\Users\Floppa Burguer\Desktop\proyecto, proyecto\EJEMPLO\Logeo\bin\Debug\Factura.exe.config
+C:\Users\Floppa Burguer\Desktop\proyecto, proyecto\EJEMPLO\Logeo\obj\Debug\Logeo.csproj.AssemblyReference.cache
+C:\Users\Floppa Burguer\Desktop\proyecto, proyecto\EJEMPLO\Logeo\obj\Debug\Logeo.Login.resources
+C:\Users\Floppa Burguer\Desktop\proyecto, proyecto\EJEMPLO\Logeo\obj\Debug\Logeo.Properties.Resources.resources
+C:\Users\Floppa Burguer\Desktop\proyecto, proyecto\EJEMPLO\Logeo\obj\Debug\Logeo.csproj.GenerateResource.cache
+C:\Users\Floppa Burguer\Desktop\proyecto, proyecto\EJEMPLO\Logeo\obj\Debug\Logeo.csproj.CoreCompileInputs.cache
+C:\Users\Floppa Burguer\Desktop\proyecto, proyecto\EJEMPLO\Logeo\obj\Debug\Logeo.csproj.Up2Date
+C:\Users\Floppa Burguer\Desktop\proyecto, proyecto\EJEMPLO\Logeo\obj\Debug\Logeo.exe
+C:\Users\Floppa Burguer\Desktop\proyecto, proyecto\EJEMPLO\Logeo\obj\Debug\Logeo.pdb

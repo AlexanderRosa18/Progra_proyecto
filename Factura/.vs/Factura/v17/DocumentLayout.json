@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Floppa Burguer\\Desktop\\proyecto, proyecto\\EJEMPLO\\Factura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A14450C6-95D5-44C4-B4C2-CC4A565347DF}|..\\Logeo\\Logeo.csproj|c:\\users\\floppa burguer\\desktop\\proyecto, proyecto\\ejemplo\\logeo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A14450C6-95D5-44C4-B4C2-CC4A565347DF}|..\\Logeo\\Logeo.csproj|c:\\users\\floppa burguer\\desktop\\proyecto, proyecto\\ejemplo\\logeo\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Floppa Burguer\\Desktop\\proyecto, proyecto\\EJEMPLO\\Factura\\Factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Floppa Burguer\\Desktop\\proyecto, proyecto\\EJEMPLO\\Factura\\Datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Floppa Burguer\\Desktop\\proyecto, proyecto\\EJEMPLO\\Factura\\DatabaseManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DatabaseManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Floppa Burguer\\Desktop\\proyecto, proyecto\\EJEMPLO\\Factura\\clsFactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:clsFactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Floppa Burguer\\Desktop\\proyecto, proyecto\\EJEMPLO\\Factura\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A14450C6-95D5-44C4-B4C2-CC4A565347DF}|..\\Logeo\\Logeo.csproj|c:\\users\\floppa burguer\\desktop\\proyecto, proyecto\\ejemplo\\logeo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Floppa Burguer\\Desktop\\proyecto, proyecto\\EJEMPLO\\Logeo\\Form1.resx",
+              "RelativeDocumentMoniker": "..\\Logeo\\Form1.resx",
+              "ToolTip": "C:\\Users\\Floppa Burguer\\Desktop\\proyecto, proyecto\\EJEMPLO\\Logeo\\Form1.resx",
+              "RelativeToolTip": "..\\Logeo\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-01T12:57:37.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\Floppa Burguer\\Desktop\\proyecto, proyecto\\EJEMPLO\\Factura\\Factura.cs",
+              "RelativeDocumentMoniker": "Factura.cs",
+              "ToolTip": "C:\\Users\\Floppa Burguer\\Desktop\\proyecto, proyecto\\EJEMPLO\\Factura\\Factura.cs",
+              "RelativeToolTip": "Factura.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:53:07.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Datos.cs",
+              "DocumentMoniker": "C:\\Users\\Floppa Burguer\\Desktop\\proyecto, proyecto\\EJEMPLO\\Factura\\Datos.cs",
+              "RelativeDocumentMoniker": "Datos.cs",
+              "ToolTip": "C:\\Users\\Floppa Burguer\\Desktop\\proyecto, proyecto\\EJEMPLO\\Factura\\Datos.cs",
+              "RelativeToolTip": "Datos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:53:07.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\Floppa Burguer\\Desktop\\proyecto, proyecto\\EJEMPLO\\Factura\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\Floppa Burguer\\Desktop\\proyecto, proyecto\\EJEMPLO\\Factura\\DatabaseManager.cs",
+              "RelativeToolTip": "DatabaseManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:53:06.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsFactura.cs",
+              "DocumentMoniker": "C:\\Users\\Floppa Burguer\\Desktop\\proyecto, proyecto\\EJEMPLO\\Factura\\clsFactura.cs",
+              "RelativeDocumentMoniker": "clsFactura.cs",
+              "ToolTip": "C:\\Users\\Floppa Burguer\\Desktop\\proyecto, proyecto\\EJEMPLO\\Factura\\clsFactura.cs",
+              "RelativeToolTip": "clsFactura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:53:06.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Floppa Burguer\\Desktop\\proyecto, proyecto\\EJEMPLO\\Factura\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Floppa Burguer\\Desktop\\proyecto, proyecto\\EJEMPLO\\Factura\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-01T12:53:06.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Floppa Burguer\\Desktop\\proyecto, proyecto\\EJEMPLO\\Logeo\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Logeo\\Form1.cs",
+              "ToolTip": "C:\\Users\\Floppa Burguer\\Desktop\\proyecto, proyecto\\EJEMPLO\\Logeo\\Form1.cs",
+              "RelativeToolTip": "..\\Logeo\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T11:27:59.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Floppa Burguer\\Desktop\\proyecto, proyecto\\EJEMPLO\\Logeo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Logeo\\Program.cs",
+              "ToolTip": "C:\\Users\\Floppa Burguer\\Desktop\\proyecto, proyecto\\EJEMPLO\\Logeo\\Program.cs",
+              "RelativeToolTip": "..\\Logeo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T11:24:44.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
